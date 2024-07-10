@@ -60,6 +60,7 @@ function setTitle(title) {
     }
   }
   .nav-list-warp {
+    margin-top: 1.5rem;
     display: none;
     background: rgba(0, 0, 0, 0.3);
     padding: 1rem 0 1rem 1rem;
@@ -77,7 +78,6 @@ function setTitle(title) {
     color: #fd6a30;
   }
   .nav-list {
-    margin-top: 16;
     padding: 0;
     list-style: none;
 
