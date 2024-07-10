@@ -37,7 +37,7 @@
 defineProps(["tvs", "active"]);
 
 function setTitle(title) {
-  document.title = title + " | Web TV";
+  document.title = title + " | CEE TV";
 }
 </script>
 
@@ -77,7 +77,7 @@ function setTitle(title) {
     color: #fd6a30;
   }
   .nav-list {
-    margin-top: 9;
+    margin-top: 12;
     padding: 0;
     list-style: none;
 
