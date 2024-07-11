@@ -81,7 +81,7 @@ function setTitle(title) {
     padding: 0;
     list-style: none;
 
-    max-height: calc(100vh - 4rem);
+    max-height: calc(90vh - 4rem);
     overflow: auto;
   }
   .sub-nav {
