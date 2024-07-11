@@ -41,7 +41,7 @@ export function translatePlugin(options = {}) {
 export function refreshTranslateBtn(player) {
     setTimeout(() => {
         player.getChild('ControlBar').getChild('SubsCapsButton').children()[1].addChild('textButton', {
-            text: '翻译',
+            text: 'tedt',
             seleced: enableTranslate,
             handleClick: (e) => {
                 enableTranslate = e.seleced;
