@@ -43,7 +43,7 @@ onMounted(() => {
       url0 = params.get("url");
       tvlistUrl = params.get("s");
     }
-    tvlistUrl = tvlistUrl || localStorage.getItem("tvlistUrl") || "https://m3u.ch/pl/812b4ff1dbeebd29c7503c48941385bc_b26a2b27e5b8af79ed7a72ce92873f6e.m3u";
+    tvlistUrl = tvlistUrl || localStorage.getItem("tvlistUrl") || "https://raw.githubusercontent.com/cee-tv/Chinatv/main/list.txt";
     let suffixName = tvlistUrl && suffix(tvlistUrl);
     if (tvlistUrl) {
       if (suffixName == "m3u8") {
