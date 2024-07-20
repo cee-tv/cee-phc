@@ -3,11 +3,11 @@
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
-#EXTINF:-1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA TV
+#EXTINF:-1 ,GMA 
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
-#EXTINF:-1 tvg-id="KAPAMILYA LIVE [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Kapamilya_Online_Live_Logo_2020.svg" group-title="GENERAL",KAPAMILYA YT
+#EXTINF:-1 ,KAPAMILYA YT
 https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
-#EXTINF:-1 tvg-id="GMA LIVE [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA LIVE YT
+#EXTINF:-1 ,GMA LIVE YT
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="ANC" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="GENERAL",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
