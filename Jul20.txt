@@ -1,0 +1,120 @@
+"#EXTM3U
+#EXTINF:-1 tvg-id="TV 5" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="GENERAL",TV 5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="GENERAL",GTV
+https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
+#EXTINF:-1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA TV
+https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
+#EXTINF:-1 tvg-id="KAPAMILYA LIVE [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Kapamilya_Online_Live_Logo_2020.svg" group-title="GENERAL",KAPAMILYA YT
+https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
+#EXTINF:-1 tvg-id="GMA LIVE [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA LIVE YT
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-id="ANC" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="GENERAL",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="CLTV 36 PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="GENERAL",CLTV
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+#EXTINF:-1 tvg-id="INCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/INCTV_Logo_With_Shadow.webp" group-title="GENERAL",INCT
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 tvg-id="BOOMERANG" group-title="KIDS",BOOMERANG
+https://v2.thetvapp.to/hls/Boomerang_low.m3u8?token=9qMuXKKFL_gZJTznF50Trw&expires=1721458144
+#EXTINF:-1 tvg-id="DISNEY CHANNEL EAST" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20768ccf-f5b0-4b5e-bd31-ad33d6cf6a35/deqq0qa-967226de-bc4a-4e74-ad2f-da473e933507.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwNzY4Y2NmLWY1YjAtNGI1ZS1iZDMxLWFkMzNkNmNmNmEzNVwvZGVxcTBxYS05NjcyMjZkZS1iYzRhLTRlNzQtYWQyZi1kYTQ3M2U5MzM1MDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.00tj7c4YGwhbZc3OhP8F8npd8chthz81uJgavDE1T0w" group-title="KIDS",DISNEY CHANNEL EAST
+https://v3.thetvapp.to/hls/DisneyChannelEast_low.m3u8?token=iwsyMrHoVrwuRPHIWsgscQ&expires=1721457001
+#EXTINF:-1 tvg-id="ANIMAX" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/devb3ww-60eff6b3-2ebc-4fcc-973e-019bfa4e5ba8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGV2YjN3dy02MGVmZjZiMy0yZWJjLTRmY2MtOTczZS0wMTliZmE0ZTViYTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YnHNl5yzTspaNXXPfeGcUwxkBPyfAzypUlSOLq-CsA8" group-title="KIDS",Animax
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+#EXTINF:-1 tvg-id="MOONBUG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moonbug2ndLogo.png/1280px-Moonbug2ndLogo.png" group-title="KIDS",Moonbug
+https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/cee-tv/Chinatv/main/Picsart_24-07-12_09-40-41-306.png" group-title="KIDS",CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/20768ccf-f5b0-4b5e-bd31-ad33d6cf6a35/deqq0qa-967226de-bc4a-4e74-ad2f-da473e933507.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIwNzY4Y2NmLWY1YjAtNGI1ZS1iZDMxLWFkMzNkNmNmNmEzNVwvZGVxcTBxYS05NjcyMjZkZS1iYzRhLTRlNzQtYWQyZi1kYTQ3M2U5MzM1MDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.00tj7c4YGwhbZc3OhP8F8npd8chthz81uJgavDE1T0w" group-title="KIDS",Disney channel
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney xd
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/cee-tv/Chinatv/main/DisneyJr3Dver.png" group-title="KIDS",Disneyjr
+https://v1.thetvapp.to/hls/DisneyJuniorEast_low.m3u8?token=KSOWQzSgQe9Jr_hBFVQRYQ&expires=1721456886
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c82dd5b3-b0d8-44e8-b11d-a50e55b7b9de/dg23uz3-65d7c2c3-4c37-455c-8729-abc337d85370.png/v1/fit/w_828,h_778/nick_jr__logo__2023___outdated__by_carlosoof10_dg23uz3-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMiIsInBhdGgiOiJcL2ZcL2M4MmRkNWIzLWIwZDgtNDRlOC1iMTFkLWE1MGU1NWI3YjlkZVwvZGcyM3V6My02NWQ3YzJjMy00YzM3LTQ1NWMtODcyOS1hYmMzMzdkODUzNzAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.q72aai8EoO7m7dOZs3neIHhusPxv2-btk20Alc-AGgY" group-title="KIDS",NICK JR
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="KIDS",Nickelodeon
+https://nick.jeromelaliag.link/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NICKTOONS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bf09ba22-c275-40ae-9cd5-84115c50ec37/dg9rh8d-5f520364-6713-4792-80f7-89ebc4294fa4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmMDliYTIyLWMyNzUtNDBhZS05Y2Q1LTg0MTE1YzUwZWMzN1wvZGc5cmg4ZC01ZjUyMDM2NC02NzEzLTQ3OTItODBmNy04OWViYzQyOTRmYTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CILurRKodyX-uqBbDmw0QGam0V4DUDegNw_9DRkyqEw" group-title="KIDS",NICKTOONS
+https://v1.thetvapp.to/hls/NicktoonsEast_low.m3u8?token=6c6HRsoQIvfTw7PyoyJdhw&expires=1721457901
+#EXTINF:-1 tvg-id="PBS KIDS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17eaaa16-8c33-442d-a392-3fecd0184e1d/dghkv1j-145f9f7c-520e-4f61-bcfb-2d3abcbf3300.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3ZWFhYTE2LThjMzMtNDQyZC1hMzkyLTNmZWNkMDE4NGUxZFwvZGdoa3Yxai0xNDVmOWY3Yy01MjBlLTRmNjEtYmNmYi0yZDNhYmNiZjMzMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LEXfjXVyV7x-ZdwECxVLuK4m6uGPVNaK8mI5gjq7w04" group-title="KIDS",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="TEENICK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bf09ba22-c275-40ae-9cd5-84115c50ec37/dg9rh8h-a108b76b-5ece-43c7-b5bd-6627040d38e1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmMDliYTIyLWMyNzUtNDBhZS05Y2Q1LTg0MTE1YzUwZWMzN1wvZGc5cmg4aC1hMTA4Yjc2Yi01ZWNlLTQzYzctYjViZC02NjI3MDQwZDM4ZTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xJwNFtvtg37J0nSpsaajWQFgWRljwcLGxFT1NqT9Pv0" group-title="KIDS",TEENICK
+https://v4.thetvapp.to/hls/TeenNickEast_low.m3u8?token=hqwm0VurrZxi9jj7mTGtQA&expires=1721457965
+#EXTINF:-1 tvg-id="UNIVERSAL KIDS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e44eb8bb-887b-4205-83c6-ddf429c6acad/dgp454f-c91783a5-f70e-449a-b048-10f88b68bff4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0NGViOGJiLTg4N2ItNDIwNS04M2M2LWRkZjQyOWM2YWNhZFwvZGdwNDU0Zi1jOTE3ODNhNS1mNzBlLTQ0OWEtYjA0OC0xMGY4OGI2OGJmZjQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.479fJFV63ZLeoI462J4skmBGolTSlo1TGLeNy0tSjK4" group-title="KIDS",UNIVERSALKIDS
+https://v4.thetvapp.to/hls/UniversalKidsEast_low.m3u8?token=Vl8Jb6mZGDhoG6c8H11gWA&expires=1721458025
+#EXTINF:-1 tvg-id="MOVIEMAX" group-title="MOVIES",MOVIEMAX
+https://v4.thetvapp.to/hls/MovieMaxEast_low.m3u8?token=QT_EdbAZyY4J3xqqECAgpQ&expires=1721458083
+#EXTINF:-1 tvg-id="HBO EAST" group-title="MOVIES",HBO EAST
+https://v3.thetvapp.to/hls/HBOEast_low.m3u8?token=X_rfsMEorShScvvbEu60UA&expires=1721457664
+#EXTINF:-1 tvg-id="FXX" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0cf57df7-9e49-4c0a-8ef3-660605d83187/dftpls8-1e02a067-db5b-499c-a75c-6655c3bd3ccf.png/v1/fit/w_583,h_458,q_70,strp/fxx_logo_in_sml_colors_by_chris_toons2009_dftpls8-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDU4IiwicGF0aCI6IlwvZlwvMGNmNTdkZjctOWU0OS00YzBhLThlZjMtNjYwNjA1ZDgzMTg3XC9kZnRwbHM4LTFlMDJhMDY3LWRiNWItNDk5Yy1hNzVjLTY2NTVjM2JkM2NjZi5wbmciLCJ3aWR0aCI6Ijw9NTgzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.kLOkOWN1NZAKqebfNYwp7iwlTP6e5Nu9JIxdKixOavk" group-title="MOVIES",FXX
+https://v1.thetvapp.to/hls/FXXEast_low.m3u8?token=W0o4hdo6Edi2mw4UByg_5g&expires=1721457366
+#EXTINF:-1 tvg-id="FXM" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/33e0dc33-4852-497a-944d-8a4dd997fa7e/dgkstgk-ebbfcbdb-422a-4b46-8102-ed48c24dae2f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMzZTBkYzMzLTQ4NTItNDk3YS05NDRkLThhNGRkOTk3ZmE3ZVwvZGdrc3Rnay1lYmJmY2JkYi00MjJhLTRiNDYtODEwMi1lZDQ4YzI0ZGFlMmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Lj6LTmB57aLEzJvZCDZNkF9ARmNoZbsOalKmGKNcYM8" group-title="MOVIES",FXM
+https://v1.thetvapp.to/hls/FXMovieChannel_low.m3u8?token=Icfu3vZ37PsxSYUJnb5pbg&expires=1721457241
+#EXTINF:-1 tvg-id="CINEMAX" group-title="MOVIES",CINEMAX
+https://v2.thetvapp.to/hls/CinemaxEast_low.m3u8?token=OQpTBkGGRiszab-2h4GQlQ&expires=1721456703
+#EXTINF:-1 tvg-id="HBO" group-title="MOVIES",HBO HE
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/hbohd_qp.m3u8
+#EXTINF:-1 tvg-id="CINEMA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1280px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",CINEMAONE
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+#EXTINF:-1 tvg-id="CINEMO" tvg-logo="https://raw.githubusercontent.com/cee-tv/Chinatv/main/CineMo!.png" group-title="MOVIES",CINEMO
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dekdgd0-ed4b7a1d-7cea-472e-91f5-6dbc15f64e69.png/v1/fit/w_828,h_830/sony_movies__united_states__logo__2021_present__by_mattjacks2003_dekdgd0-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1MiIsInBhdGgiOiJcL2ZcLzQwOWVmYTZlLWM2OWEtNDk3MS1hYzRlLWEyYTc2ZGNkMDJlNVwvZGVrZGdkMC1lZDRiN2ExZC03Y2VhLTQ3MmUtOTFmNS02ZGJjMTVmNjRlNjkucG5nIiwid2lkdGgiOiI8PTExNDgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sZJR5KxUznp5WTJOVmmZrAQuluOggCe1TxSwOu0mDbQ" group-title="MOVIES",SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png" group-title="MOVIES",FX
+https://v4.thetvapp.to/hls/FXEast_low.m3u8?token=iq8zesccLTKVpVcCx5rUVg&expires=1721457183
+#EXTINF:-1 tvg-id="HBO COMEDY" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edc97dfc-312f-486c-a403-2a7a944a049d/dh0h4qv-757384e3-7006-4b70-aef7-d31c85baf389.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYzk3ZGZjLTMxMmYtNDg2Yy1hNDAzLTJhN2E5NDRhMDQ5ZFwvZGgwaDRxdi03NTczODRlMy03MDA2LTRiNzAtYWVmNy1kMzFjODViYWYzODkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Xos0ZYr5HlOgFh7pVvaHOwdCnsTAUFVUzXhKzX51b_c" group-title="MOVIES",HBO COMEDY
+https://v5.thetvapp.to/hls/HBOComedyEast_low.m3u8?token=WQ3KfcEkWR3lXSlN-TztBg&expires=1721457664
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edc97dfc-312f-486c-a403-2a7a944a049d/dh0h4i1-777e16bf-936a-4aed-bd9a-5fb89ef692aa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYzk3ZGZjLTMxMmYtNDg2Yy1hNDAzLTJhN2E5NDRhMDQ5ZFwvZGgwaDRpMS03NzdlMTZiZi05MzZhLTRhZWQtYmQ5YS01ZmI4OWVmNjkyYWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p96vScwuTODXXAIS_A26aymUPqQg8oT0PrUr1UK4Xgs" group-title="MOVIES",HBO FAMILY
+https://v3.thetvapp.to/hls/HBOFamilyEast_low.m3u8?token=UBD5xHdVyUKEoNaWKNEtwQ&expires=1721457722
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/cee-tv/Chinatv/main/klipartz.com.png" group-title="MOVIES",HBO SIGNATURE
+https://v1.thetvapp.to/hls/HBOSignatureEast_low.m3u8?token=k2wCGmDeiPBvbYVffIhhrA&expires=1721457841
+#EXTINF:-1 tvg-id="HBO ZONE" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edc97dfc-312f-486c-a403-2a7a944a049d/dh0h4ms-8a12feb9-d907-4ac1-b30f-da8addd4aa4c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkYzk3ZGZjLTMxMmYtNDg2Yy1hNDAzLTJhN2E5NDRhMDQ5ZFwvZGgwaDRtcy04YTEyZmViOS1kOTA3LTRhYzEtYjMwZi1kYThhZGRkNGFhNGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.S-7vDahwTdfXHoZv8VngdLp-vEyPZrb0f_j-LZaTvSg" group-title="MOVIES",HBO ZONE
+https://v1.thetvapp.to/hls/HBOZoneEast_low.m3u8?token=ooaQiG-Yw3FAOO5G4vWgZg&expires=1721457842
+#EXTINF:-1 tvg-id="K MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/K_Movies_Pinoy_logo.png" group-title="MOVIES",K MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-id="ASIAN CRUSH" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png?imwidth=640" group-title="MOVIES",ASIAN CRUSH
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8
+#EXTINF:-1 tvg-id="KBS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="MOVIES",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="SBS EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png" group-title="MOVIES",SBS EU
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN VIKI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTENVIKI
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN ACTION
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN TOP FREE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN TOP FILM
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN TV ACTION
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN ACTION EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN TV ACTION EU
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN TV COMEDY
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN COMEDY EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN TV COMEDY
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN FAMILY EU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN TV FAMILY
+https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="RAKUTEN TOP FREE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="MOVIES",RAKUTEN TV TOP FREE
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/cee-tv/Chinatv/main/MTV_Live_(purple).svg" group-title="MUSIC",MTVLIVE
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="MUSIC",MYX Philippines (720p)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1280px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
+https://v1.thetvapp.to/hls/NBATV_low.m3u8?token=kicG-W0hEJzRSBHJXM4WcA&expires=1721456347
+#EXTINF:-1 tvg-id="ONE SPORTS+" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/0/0b/One_Sports%2B.png/revision/latest?cb=20230314053103" group-title="SPORTS",ONESPORTS+
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_2.m3u8
+#EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="RADIO",Super Radyo DZBB (720p) [Not 24/7]
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="RADIO",DZRH News TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="RADIO",TeleRadyo (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
+#EXTINF:-1 tvg-id="963EasyRock.ph" tvg-logo="https://i.imgur.com/IMFwHbp.png" group-title="RADIO",96.3 Easy Rock (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04b0e30e-c394-4e4f-b4bb-b0bb99c50e22/dg9hnwi-a6982659-2de2-4a89-bfd8-ea1ca5a3282c.png/v1/fill/w_1280,h_735/hgtv_logo_combination__1994___2010__by_vincerabina_dg9hnwi-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzM1IiwicGF0aCI6IlwvZlwvMDRiMGUzMGUtYzM5NC00ZTRmLWI0YmItYjBiYjk5YzUwZTIyXC9kZzlobndpLWE2OTgyNjU5LTJkZTItNGE4OS1iZmQ4LWVhMWNhNWEzMjgyYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lqV89Q4BGG7QlwK6rLLu76aPTz0Y9ahzQAD5XHTis0Y" group-title="LIFESTYLE",HGTV
+https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102aef1/index_15.m3u8"
+ content://ru.zdevs.zarchiver.external/storage/emulated/0/Music/july202).txt#:~:text=%23EXTM3U%0A%23EXTINF%3A%2D1,c20e615a33504bc7a227077cb102aef1/index_15.m3u8
