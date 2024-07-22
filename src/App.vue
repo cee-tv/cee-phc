@@ -43,7 +43,7 @@ onMounted(() => {
       url0 = params.get("url");
       tvlistUrl = params.get("s");
     }
-    tvlistUrl = tvlistUrl || localStorage.getItem("tvlistUrl") || "https://raw.githubusercontent.com/cee-tv/ceetv/main/Jul20.txt";
+    tvlistUrl = tvlistUrl || localStorage.getItem("tvlistUrl") || "https://raw.githubusercontent.com/cee-tv/ceetv/main/Jul20.m3u";
     let suffixName = tvlistUrl && suffix(tvlistUrl);
     if (tvlistUrl) {
       if (suffixName == "m3u8") {
